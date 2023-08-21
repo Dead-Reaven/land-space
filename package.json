@@ -4,7 +4,9 @@
 		"swiper": "^10.1.0"
 	},
 	"scripts": {
-		"watch": "sass --watch src/scss/main.scss build/index.css"
+		"watch": "sass --watch src/scss/main.scss build/index.css",
+		"start": "parcel index.html",
+		"build": "parsel build"
 	},
 	"devDependencies": {
 		"parcel": "^2.9.3"
