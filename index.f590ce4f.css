@@ -322,7 +322,7 @@ header #header-top-button + #menu #header-menu-button {
   color: #f7f7f7;
   text-align: center;
   background-color: #0000;
-  background-image: linear-gradient(#34623fcc, #34623fcc), url("Main_Background.d47526c8.png");
+  background-image: linear-gradient(#34623fcc, #34623fcc), url("Main_Background.64664fae.png");
   background-position: center;
   background-repeat: repeat, repeat;
   background-size: cover;
@@ -731,7 +731,7 @@ header #header-top-button + #menu #header-menu-button {
 }
 
 #services .service-card {
-  background-image: url("background1.2e63c1ba.jpg");
+  background-image: url("background1.e2876738.jpg");
   background-position: center;
   background-size: cover;
   border-radius: 20px;
@@ -780,7 +780,7 @@ header #header-top-button + #menu #header-menu-button {
 }
 
 #services .service-card:last-child {
-  background: url("garden_master.291b215e.jpg") 0 0 / cover no-repeat;
+  background: url("garden_master.40b583d6.jpg") 0 0 / cover no-repeat;
   background-position: center top left;
 }
 
