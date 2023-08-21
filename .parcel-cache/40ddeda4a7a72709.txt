@@ -26,12 +26,12 @@
 70C:\Users\Super_DROZD\Desktop\projects\land space\node_modules\msgpackr133371017403945715 1
 98C:\Users\Super_DROZD\Desktop\projects\land space\node_modules\css-select\node_modules\domutils\lib133371017428745721 1
 80C:\Users\Super_DROZD\Desktop\projects\land space\node_modules\picocolors\LICENSE133371017385825762 0
-73C:\Users\Super_DROZD\Desktop\projects\land space\dist\Rocket.d5411e00.svg133371025250616439 0
+73C:\Users\Super_DROZD\Desktop\projects\land space\dist\Rocket.d5411e00.svg133371027341175105 0
 70C:\Users\Super_DROZD\Desktop\projects\land space\src\scss\_header.scss133370984839236465 0
 93C:\Users\Super_DROZD\Desktop\projects\land space\node_modules\caniuse-lite\data\regions\VE.js133371017422985711 0
 74C:\Users\Super_DROZD\Desktop\projects\land space\node_modules\.bin\js-yaml133371017460755732 0
 87C:\Users\Super_DROZD\Desktop\projects\land space\node_modules\dotenv\lib\env-options.js133371017393175727 0
-59C:\Users\Super_DROZD\Desktop\projects\land space\.gitignore133371025818666479 0
+59C:\Users\Super_DROZD\Desktop\projects\land space\.gitignore133371026574758350 0
 79C:\Users\Super_DROZD\Desktop\projects\land space\node_modules\lmdb\dependencies133371017409055708 1
 80C:\Users\Super_DROZD\Desktop\projects\land space\node_modules\swiper\swiper.scss133366629306361192 0
 84C:\Users\Super_DROZD\Desktop\projects\land space\node_modules\tslib\modules\index.js133371017388955713 0
@@ -62,7 +62,7 @@
 84C:\Users\Super_DROZD\Desktop\projects\land space\node_modules\lru-cache\package.json133371017387585714 0
 85C:\Users\Super_DROZD\Desktop\projects\land space\src\scss\sections\_client_story.scss133370075265978866 0
 103C:\Users\Super_DROZD\Desktop\projects\land space\node_modules\caniuse-lite\data\features\mediasource.js133371017420185710 0
-53C:\Users\Super_DROZD\Desktop\projects\land space\dist133371025251766429 1
+53C:\Users\Super_DROZD\Desktop\projects\land space\dist133371027343065118 1
 120C:\Users\Super_DROZD\Desktop\projects\land space\node_modules\@parcel\optimizer-image\parcel-image.linux-arm64-musl.node133371017430375700 0
 101C:\Users\Super_DROZD\Desktop\projects\land space\node_modules\@parcel\transformer-babel\src\config.js133371017409845711 0
 106C:\Users\Super_DROZD\Desktop\projects\land space\node_modules\node-gyp-build-optional-packages\optional.js133371017390525712 0
@@ -130,7 +130,7 @@
 81C:\Users\Super_DROZD\Desktop\projects\land space\node_modules\ometa\ometa-node.js133364033616997473 0
 89C:\Users\Super_DROZD\Desktop\projects\land space\node_modules\swiper\modules\grid.min.css133366629303859986 0
 85C:\Users\Super_DROZD\Desktop\projects\land space\node_modules\css-select\node_modules133371017378175718 1
-75C:\Users\Super_DROZD\Desktop\projects\land space\dist\FaceBook.55040903.svg133371025251706418 0
+75C:\Users\Super_DROZD\Desktop\projects\land space\dist\FaceBook.55040903.svg133371027340915110 0
 92C:\Users\Super_DROZD\Desktop\projects\land space\node_modules\@parcel\optimizer-htmlnano\src133371017420985704 1
 80C:\Users\Super_DROZD\Desktop\projects\land space\node_modules\svgo\lib\parser.js133371017397775710 0
 97C:\Users\Super_DROZD\Desktop\projects\land space\node_modules\type-fest\source\promise-value.d.ts133371017397235712 0
@@ -146,7 +146,7 @@
 104C:\Users\Super_DROZD\Desktop\projects\land space\node_modules\swiper\modules\effect-fade-element.min.css133366629303759981 0
 90C:\Users\Super_DROZD\Desktop\projects\land space\node_modules\@parcel\workers\src\index.js133371017401925711 0
 69C:\Users\Super_DROZD\Desktop\projects\land space\node_modules\@parcel133371017463685715 1
-68C:\Users\Super_DROZD\Desktop\projects\land space\dist\1.365c9502.png133371025251316425 0
+68C:\Users\Super_DROZD\Desktop\projects\land space\dist\1.365c9502.png133371027342695130 0
 67C:\Users\Super_DROZD\Desktop\projects\land space\src\scss\main.scss133370921815219942 0
 72C:\Users\Super_DROZD\Desktop\projects\land space\node_modules\picocolors133371017391345707 1
 93C:\Users\Super_DROZD\Desktop\projects\land space\node_modules\caniuse-lite\data\regions\ES.js133371017415965724 0
@@ -428,7 +428,7 @@
 107C:\Users\Super_DROZD\Desktop\projects\land space\node_modules\@parcel\transformer-raw\lib\RawTransformer.js133371017404455706 0
 102C:\Users\Super_DROZD\Desktop\projects\land space\node_modules\posthtml-parser\dist\location-tracker.js133371017391085711 0
 74C:\Users\Super_DROZD\Desktop\projects\land space\node_modules\import-fresh133371017390235717 1
-83C:\Users\Super_DROZD\Desktop\projects\land space\dist\stats_background.55f350f1.png133371025251406412 0
+83C:\Users\Super_DROZD\Desktop\projects\land space\dist\stats_background.55f350f1.png133371027343055136 0
 84C:\Users\Super_DROZD\Desktop\projects\land space\node_modules\domelementtype\lib\esm133371017392285726 1
 101C:\Users\Super_DROZD\Desktop\projects\land space\node_modules\swiper\modules\effect-cards.min.mjs.map133366629304933881 0
 67C:\Users\Super_DROZD\Desktop\projects\land space\node_modules\tslib133371017393935732 1
@@ -1595,7 +1595,7 @@
 95C:\Users\Super_DROZD\Desktop\projects\land space\node_modules\@parcel\core\src\public\Config.js133371017434185703 0
 94C:\Users\Super_DROZD\Desktop\projects\land space\node_modules\ometa\bs-project-list-parser.txt133364033616817478 0
 87C:\Users\Super_DROZD\Desktop\projects\land space\node_modules\swiper\modules\thumbs.mjs133366629306121204 0
-73C:\Users\Super_DROZD\Desktop\projects\land space\dist\Burger.9561a12d.svg133371025251706418 0
+73C:\Users\Super_DROZD\Desktop\projects\land space\dist\Burger.9561a12d.svg133371027340915110 0
 109C:\Users\Super_DROZD\Desktop\projects\land space\node_modules\lmdb\dependencies\lz4\lib\dll\example\README.md133371017410615719 0
 82C:\Users\Super_DROZD\Desktop\projects\land space\node_modules\ordered-binary\tests133371017391545716 1
 105C:\Users\Super_DROZD\Desktop\projects\land space\node_modules\swiper\modules\manipulation-element.min.css133366629303919969 0
@@ -2065,7 +2065,7 @@
 88C:\Users\Super_DROZD\Desktop\projects\land space\node_modules\scss\src\cssSelector.ometa133364033616707492 0
 107C:\Users\Super_DROZD\Desktop\projects\land space\node_modules\caniuse-lite\data\features\input-inputmode.js133371017419015717 0
 92C:\Users\Super_DROZD\Desktop\projects\land space\node_modules\scss\specs\cssSelectorSpecs.js133364033616607525 0
-68C:\Users\Super_DROZD\Desktop\projects\land space\dist\1.9e62bf71.png133371025250036420 0
+68C:\Users\Super_DROZD\Desktop\projects\land space\dist\1.9e62bf71.png133371027341565127 0
 120C:\Users\Super_DROZD\Desktop\projects\land space\node_modules\@parcel\optimizer-svgo\node_modules\mdn-data\l10n\index.js133371017390795704 0
 104C:\Users\Super_DROZD\Desktop\projects\land space\node_modules\lightningcss\node\browserslistToTargets.js133371017392965710 0
 90C:\Users\Super_DROZD\Desktop\projects\land space\node_modules\scss\specs\grammarInvoker.js133364033616647516 0
@@ -2086,7 +2086,7 @@
 126C:\Users\Super_DROZD\Desktop\projects\land space\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\data\patch.json133371017410085714 0
 121C:\Users\Super_DROZD\Desktop\projects\land space\node_modules\@swc\helpers\_\_class_private_field_loose_base\package.json133371017415875716 0
 83C:\Users\Super_DROZD\Desktop\projects\land space\node_modules\resolve-from\index.js133371017386655715 0
-68C:\Users\Super_DROZD\Desktop\projects\land space\dist\3.b0118082.png133371025251316425 0
+68C:\Users\Super_DROZD\Desktop\projects\land space\dist\3.b0118082.png133371027342695130 0
 102C:\Users\Super_DROZD\Desktop\projects\land space\node_modules\lmdb\dependencies\v8\v8-fast-api-calls.h133371017409275713 0
 87C:\Users\Super_DROZD\Desktop\projects\land space\node_modules\@parcel\watcher-win32-x64133371017394955715 1
 107C:\Users\Super_DROZD\Desktop\projects\land space\node_modules\caniuse-lite\data\features\promise-finally.js133371017421425713 0
@@ -2530,7 +2530,7 @@
 114C:\Users\Super_DROZD\Desktop\projects\land space\node_modules\css-select\node_modules\domutils\lib\esm\legacy.d.ts133371017428645724 0
 109C:\Users\Super_DROZD\Desktop\projects\land space\node_modules\@parcel\core\lib\requests\BundleGraphRequest.js133371017434135708 0
 79C:\Users\Super_DROZD\Desktop\projects\land space\node_modules\lru-cache\LICENSE133371017385835713 0
-71C:\Users\Super_DROZD\Desktop\projects\land space\dist\index.e6e51355.js133371025250026422 0
+71C:\Users\Super_DROZD\Desktop\projects\land space\dist\index.e6e51355.js133371027341645155 0
 131C:\Users\Super_DROZD\Desktop\projects\land space\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\pseudo\not.js133371017407175713 0
 70C:\Users\Super_DROZD\Desktop\projects\land space\node_modules\lmdb\bin133371017409675708 1
 92C:\Users\Super_DROZD\Desktop\projects\land space\node_modules\@parcel\workers\lib\backend.js133371017398405705 0
@@ -2830,7 +2830,7 @@
 94C:\Users\Super_DROZD\Desktop\projects\land space\node_modules\electron-to-chromium\versions.js133371017391915708 0
 85C:\Users\Super_DROZD\Desktop\projects\land space\node_modules\@parcel\packager-js\src133371017415745720 1
 87C:\Users\Super_DROZD\Desktop\projects\land space\node_modules\js-yaml\lib\type\float.js133371017393185734 0
-75C:\Users\Super_DROZD\Desktop\projects\land space\dist\index.e6e51355.js.map133371025250076415 0
+75C:\Users\Super_DROZD\Desktop\projects\land space\dist\index.e6e51355.js.map133371027341715112 0
 103C:\Users\Super_DROZD\Desktop\projects\land space\node_modules\csso\node_modules\mdn-data\css\types.json133371017427625713 0
 89C:\Users\Super_DROZD\Desktop\projects\land space\node_modules\css-select\lib\esm\types.js133371017396125722 0
 109C:\Users\Super_DROZD\Desktop\projects\land space\node_modules\caniuse-lite\data\features\loading-lazy-attr.js133371017419965718 0
@@ -3484,7 +3484,7 @@
 81C:\Users\Super_DROZD\Desktop\projects\land space\node_modules\css-tree\cjs\parser133371017409105712 1
 99C:\Users\Super_DROZD\Desktop\projects\land space\node_modules\@swc\helpers\_\_ts_param\package.json133371017417455724 0
 93C:\Users\Super_DROZD\Desktop\projects\land space\node_modules\caniuse-lite\data\regions\TV.js133371017422775709 0
-72C:\Users\Super_DROZD\Desktop\projects\land space\dist\index.f590ce4f.css133371025250176438 0
+72C:\Users\Super_DROZD\Desktop\projects\land space\dist\index.f590ce4f.css133371027341085116 0
 105C:\Users\Super_DROZD\Desktop\projects\land space\node_modules\csso\lib\restructure\prepare\specificity.js133371017407215710 0
 93C:\Users\Super_DROZD\Desktop\projects\land space\node_modules\caniuse-lite\data\regions\PR.js133371017421385705 0
 123C:\Users\Super_DROZD\Desktop\projects\land space\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\lib\css-tools.js133371017397235712 0
@@ -3559,7 +3559,7 @@
 88C:\Users\Super_DROZD\Desktop\projects\land space\node_modules\csso\cjs\replace\Value.cjs133371017399555716 0
 93C:\Users\Super_DROZD\Desktop\projects\land space\node_modules\caniuse-lite\data\regions\MO.js133371017420275703 0
 72C:\Users\Super_DROZD\Desktop\projects\land space\Assets\best_works\2.png133366591578171295 0
-68C:\Users\Super_DROZD\Desktop\projects\land space\dist\2.6d26a95f.svg133371025250626435 0
+68C:\Users\Super_DROZD\Desktop\projects\land space\dist\2.6d26a95f.svg133371027341075120 0
 102C:\Users\Super_DROZD\Desktop\projects\land space\node_modules\csso\cjs\replace\property\background.cjs133371017393885714 0
 103C:\Users\Super_DROZD\Desktop\projects\land space\node_modules\csso\cjs\replace\property\font-weight.cjs133371017395525712 0
 99C:\Users\Super_DROZD\Desktop\projects\land space\node_modules\csso\cjs\replace\atrule\keyframes.cjs133371017397365727 0
@@ -3662,7 +3662,7 @@
 96C:\Users\Super_DROZD\Desktop\projects\land space\node_modules\css-tree\lib\syntax\scope\value.js133371017415105707 0
 96C:\Users\Super_DROZD\Desktop\projects\land space\node_modules\css-tree\lib\syntax\node\Atrule.js133371017410475720 0
 110C:\Users\Super_DROZD\Desktop\projects\land space\node_modules\caniuse-lite\data\features\font-unicode-range.js133371017416655723 0
-68C:\Users\Super_DROZD\Desktop\projects\land space\dist\6.21df9a45.png133371025250036420 0
+68C:\Users\Super_DROZD\Desktop\projects\land space\dist\6.21df9a45.png133371027341575112 0
 103C:\Users\Super_DROZD\Desktop\projects\land space\node_modules\css-tree\lib\syntax\node\AtrulePrelude.js133371017410535705 0
 94C:\Users\Super_DROZD\Desktop\projects\land space\node_modules\@parcel\utils\src\escape-html.js133371017423245712 0
 107C:\Users\Super_DROZD\Desktop\projects\land space\node_modules\css-tree\lib\syntax\node\AttributeSelector.js133371017410645710 0
@@ -3962,7 +3962,7 @@
 112C:\Users\Super_DROZD\Desktop\projects\land space\node_modules\css-select\node_modules\entities\lib\esm\escape.js133371017394555704 0
 102C:\Users\Super_DROZD\Desktop\projects\land space\node_modules\@parcel\core\lib\requests\PathRequest.js133371017434845710 0
 113C:\Users\Super_DROZD\Desktop\projects\land space\node_modules\css-select\node_modules\entities\lib\esm\index.d.ts133371017404475723 0
-80C:\Users\Super_DROZD\Desktop\projects\land space\dist\garden_master.291b215e.jpg133371025250086427 0
+80C:\Users\Super_DROZD\Desktop\projects\land space\dist\garden_master.291b215e.jpg133371027341695116 0
 118C:\Users\Super_DROZD\Desktop\projects\land space\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\lib\path.js133371017398745713 0
 111C:\Users\Super_DROZD\Desktop\projects\land space\node_modules\css-select\node_modules\entities\lib\esm\index.js133371017394895720 0
 93C:\Users\Super_DROZD\Desktop\projects\land space\node_modules\caniuse-lite\data\regions\GT.js133371017417115710 0
@@ -4626,7 +4626,7 @@
 112C:\Users\Super_DROZD\Desktop\projects\land space\node_modules\caniuse-lite\data\features\font-variant-numeric.js133371017416685717 0
 100C:\Users\Super_DROZD\Desktop\projects\land space\node_modules\caniuse-lite\data\features\fontface.js133371017416695705 0
 114C:\Users\Super_DROZD\Desktop\projects\land space\node_modules\caniuse-lite\data\features\form-submit-attributes.js133371017416725705 0
-68C:\Users\Super_DROZD\Desktop\projects\land space\dist\4.a546bf0f.png133371025250086427 0
+68C:\Users\Super_DROZD\Desktop\projects\land space\dist\4.a546bf0f.png133371027341715112 0
 113C:\Users\Super_DROZD\Desktop\projects\land space\node_modules\@parcel\optimizer-htmlnano\src\HTMLNanoOptimizer.js133371017420955705 0
 113C:\Users\Super_DROZD\Desktop\projects\land space\node_modules\@parcel\transformer-react-refresh-wrap\package.json133371017405615709 0
 107C:\Users\Super_DROZD\Desktop\projects\land space\node_modules\caniuse-lite\data\features\form-validation.js133371017416735720 0
@@ -4878,7 +4878,7 @@
 92C:\Users\Super_DROZD\Desktop\projects\land space\node_modules\@swc\helpers\_\_async_iterator133371017415285707 1
 90C:\Users\Super_DROZD\Desktop\projects\land space\node_modules\@swc\core\bindings\README.md133371017399415734 0
 99C:\Users\Super_DROZD\Desktop\projects\land space\node_modules\@swc\helpers\_\_await_async_generator133371017415445720 1
-68C:\Users\Super_DROZD\Desktop\projects\land space\dist\1.7701dbd2.svg133371025251706418 0
+68C:\Users\Super_DROZD\Desktop\projects\land space\dist\1.7701dbd2.svg133371027340925109 0
 104C:\Users\Super_DROZD\Desktop\projects\land space\node_modules\@swc\helpers\_\_class_apply_descriptor_get133371017415575725 1
 104C:\Users\Super_DROZD\Desktop\projects\land space\node_modules\@swc\helpers\_\_class_apply_descriptor_set133371017415605717 1
 111C:\Users\Super_DROZD\Desktop\projects\land space\node_modules\@swc\helpers\_\_class_check_private_static_access133371017415665715 1
@@ -4984,7 +4984,7 @@
 116C:\Users\Super_DROZD\Desktop\projects\land space\node_modules\@parcel\core\test\fixtures\custom-targets\package.json133371017435595707 0
 109C:\Users\Super_DROZD\Desktop\projects\land space\node_modules\@swc\helpers\src\_class_private_method_init.mjs133371017418795717 0
 122C:\Users\Super_DROZD\Desktop\projects\land space\node_modules\@swc\helpers\src\_class_static_private_field_destructure.mjs133371017418815715 0
-77C:\Users\Super_DROZD\Desktop\projects\land space\dist\ArrowRight.5b8d1e73.svg133371025250616439 0
+77C:\Users\Super_DROZD\Desktop\projects\land space\dist\ArrowRight.5b8d1e73.svg133371027341065114 0
 119C:\Users\Super_DROZD\Desktop\projects\land space\node_modules\@swc\helpers\src\_class_static_private_field_spec_get.mjs133371017418815715 0
 96C:\Users\Super_DROZD\Desktop\projects\land space\node_modules\@swc\helpers\src\_create_super.mjs133371017419135711 0
 91C:\Users\Super_DROZD\Desktop\projects\land space\node_modules\@swc\helpers\src\_extends.mjs133371017419265709 0
@@ -5009,7 +5009,7 @@
 87C:\Users\Super_DROZD\Desktop\projects\land space\node_modules\@swc\helpers\src\_set.mjs133371017419605726 0
 109C:\Users\Super_DROZD\Desktop\projects\land space\node_modules\@swc\helpers\src\_skip_first_generator_next.mjs133371017419615709 0
 99C:\Users\Super_DROZD\Desktop\projects\land space\node_modules\@swc\helpers\src\_sliced_to_array.mjs133371017419635715 0
-79C:\Users\Super_DROZD\Desktop\projects\land space\dist\discount_img.c64eeec5.jpg133371025250096413 0
+79C:\Users\Super_DROZD\Desktop\projects\land space\dist\discount_img.c64eeec5.jpg133371027341735117 0
 130C:\Users\Super_DROZD\Desktop\projects\land space\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\plugins\_collections.js133371017390535708 0
 105C:\Users\Super_DROZD\Desktop\projects\land space\node_modules\@swc\helpers\src\_sliced_to_array_loose.mjs133371017419625712 0
 87C:\Users\Super_DROZD\Desktop\projects\land space\node_modules\@parcel\reporter-cli\test133371017424925710 1
@@ -5054,7 +5054,7 @@
 95C:\Users\Super_DROZD\Desktop\projects\land space\node_modules\@swc\helpers\lib\_create_super.js133371017411375706 0
 114C:\Users\Super_DROZD\Desktop\projects\land space\node_modules\@babel\highlight\node_modules\color-convert\index.js133371017388995707 0
 91C:\Users\Super_DROZD\Desktop\projects\land space\node_modules\@swc\helpers\lib\_decorate.js133371017411455701 0
-76C:\Users\Super_DROZD\Desktop\projects\land space\dist\index.f590ce4f.css.map133371025250186420 0
+76C:\Users\Super_DROZD\Desktop\projects\land space\dist\index.f590ce4f.css.map133371027341395141 0
 91C:\Users\Super_DROZD\Desktop\projects\land space\node_modules\@swc\helpers\lib\_defaults.js133371017411515704 0
 98C:\Users\Super_DROZD\Desktop\projects\land space\node_modules\@swc\helpers\lib\_define_property.js133371017411615713 0
 91C:\Users\Super_DROZD\Desktop\projects\land space\node_modules\@babel\highlight\package.json133371017390735713 0
@@ -5104,7 +5104,7 @@
 107C:\Users\Super_DROZD\Desktop\projects\land space\node_modules\@swc\helpers\esm\_async_generator_delegate.js133371017408095723 0
 66C:\Users\Super_DROZD\Desktop\projects\land space\Assets\team\6.png133366799117734247 0
 101C:\Users\Super_DROZD\Desktop\projects\land space\node_modules\@swc\helpers\esm\_async_to_generator.js133371017408345712 0
-82C:\Users\Super_DROZD\Desktop\projects\land space\dist\Main_Background.d47526c8.png133371025251376423 0
+82C:\Users\Super_DROZD\Desktop\projects\land space\dist\Main_Background.d47526c8.png133371027342855124 0
 126C:\Users\Super_DROZD\Desktop\projects\land space\node_modules\@swc\helpers\esm\_class_check_private_static_field_descriptor.js133371017409555706 0
 104C:\Users\Super_DROZD\Desktop\projects\land space\node_modules\@swc\helpers\esm\_await_async_generator.js133371017408455719 0
 94C:\Users\Super_DROZD\Desktop\projects\land space\node_modules\@swc\helpers\esm\_await_value.js133371017408565713 0
@@ -5359,7 +5359,7 @@
 79C:\Users\Super_DROZD\Desktop\projects\land space\node_modules\@parcel\utils\lib133371017427375717 1
 83C:\Users\Super_DROZD\Desktop\projects\land space\node_modules\@parcel\utils\LICENSE133371017423065725 0
 88C:\Users\Super_DROZD\Desktop\projects\land space\node_modules\@parcel\utils\package.json133371017427345706 0
-68C:\Users\Super_DROZD\Desktop\projects\land space\dist\4.e4994d53.png133371025250036420 0
+68C:\Users\Super_DROZD\Desktop\projects\land space\dist\4.e4994d53.png133371027341575112 0
 83C:\Users\Super_DROZD\Desktop\projects\land space\node_modules\@parcel\profiler\test133371017402485727 1
 79C:\Users\Super_DROZD\Desktop\projects\land space\node_modules\@parcel\utils\src133371017427075722 1
 80C:\Users\Super_DROZD\Desktop\projects\land space\node_modules\@parcel\utils\test133371017427095715 1
@@ -5502,7 +5502,7 @@
 112C:\Users\Super_DROZD\Desktop\projects\land space\node_modules\@parcel\source-map\parcel_sourcemap_wasm\dist-node133371017410315705 1
 115C:\Users\Super_DROZD\Desktop\projects\land space\node_modules\@babel\highlight\node_modules\supports-color\index.js133371017387715713 0
 136C:\Users\Super_DROZD\Desktop\projects\land space\node_modules\@parcel\source-map\parcel_sourcemap_wasm\dist-web\parcel_sourcemap_wasm.js133371017402125713 0
-71C:\Users\Super_DROZD\Desktop\projects\land space\dist\Mail.64448081.svg133371025251706418 0
+71C:\Users\Super_DROZD\Desktop\projects\land space\dist\Mail.64448081.svg133371027340925109 0
 113C:\Users\Super_DROZD\Desktop\projects\land space\node_modules\@babel\highlight\node_modules\color-name\.npmignore133371017386755718 0
 141C:\Users\Super_DROZD\Desktop\projects\land space\node_modules\@parcel\source-map\parcel_sourcemap_wasm\dist-web\parcel_sourcemap_wasm_bg.wasm133371017410635718 0
 125C:\Users\Super_DROZD\Desktop\projects\land space\node_modules\@parcel\source-map\parcel_sourcemap_wasm\dist-node\package.json133371017403525711 0
@@ -5592,7 +5592,7 @@
 103C:\Users\Super_DROZD\Desktop\projects\land space\node_modules\@parcel\reporter-dev-server\src\Server.js133371017422545711 0
 131C:\Users\Super_DROZD\Desktop\projects\land space\node_modules\@parcel\optimizer-svgo\node_modules\mdn-data\css\at-rules.schema.json133371017391885717 0
 103C:\Users\Super_DROZD\Desktop\projects\land space\node_modules\@parcel\reporter-dev-server\src\templates133371017422525721 1
-76C:\Users\Super_DROZD\Desktop\projects\land space\dist\Instagram.7a8c1bc3.svg133371025250616439 0
+76C:\Users\Super_DROZD\Desktop\projects\land space\dist\Instagram.7a8c1bc3.svg133371027341065114 0
 112C:\Users\Super_DROZD\Desktop\projects\land space\node_modules\@parcel\reporter-dev-server\src\templates\404.html133371017422525721 0
 119C:\Users\Super_DROZD\Desktop\projects\land space\node_modules\@parcel\core\test\fixtures\config-node-pipeline\.parcelrc133371017433675726 0
 115C:\Users\Super_DROZD\Desktop\projects\land space\node_modules\@parcel\reporter-dev-server\lib\ServerReporter.js.map133371017425075709 0
@@ -5818,7 +5818,7 @@
 126C:\Users\Super_DROZD\Desktop\projects\land space\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\function133371017409885706 1
 122C:\Users\Super_DROZD\Desktop\projects\land space\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\node133371017409995713 1
 124C:\Users\Super_DROZD\Desktop\projects\land space\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\pseudo133371017408765715 1
-68C:\Users\Super_DROZD\Desktop\projects\land space\dist\2.312ed19d.png133371025250086427 0
+68C:\Users\Super_DROZD\Desktop\projects\land space\dist\2.312ed19d.png133371027341625126 0
 111C:\Users\Super_DROZD\Desktop\projects\land space\node_modules\@parcel\core\test\fixtures\custom-targets-distdir133371017435585706 1
 123C:\Users\Super_DROZD\Desktop\projects\land space\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\scope133371017409845711 1
 132C:\Users\Super_DROZD\Desktop\projects\land space\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\scope\index.js133371017404895712 0
@@ -6065,7 +6065,7 @@
 137C:\Users\Super_DROZD\Desktop\projects\land space\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\atrule\index.js133371017404435718 0
 137C:\Users\Super_DROZD\Desktop\projects\land space\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\atrule\media.js133371017406475717 0
 140C:\Users\Super_DROZD\Desktop\projects\land space\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\atrule\supports.js133371017409075711 0
-68C:\Users\Super_DROZD\Desktop\projects\land space\dist\5.fa161739.png133371025251286422 0
+68C:\Users\Super_DROZD\Desktop\projects\land space\dist\5.fa161739.png133371027342295130 0
 129C:\Users\Super_DROZD\Desktop\projects\land space\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\lexer\error.js133371017400835721 0
 97C:\Users\Super_DROZD\Desktop\projects\land space\node_modules\@parcel\core\test\fixtures\main-mjs133371017435705704 1
 138C:\Users\Super_DROZD\Desktop\projects\land space\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\lexer\generic-urange.js133371017402455704 0
@@ -6201,7 +6201,7 @@
 108C:\Users\Super_DROZD\Desktop\projects\land space\node_modules\@parcel\core\test\fixtures\application-targets133371017435505710 1
 98C:\Users\Super_DROZD\Desktop\projects\land space\node_modules\@parcel\core\test\fixtures\bundle.js133371017434045709 0
 103C:\Users\Super_DROZD\Desktop\projects\land space\node_modules\@parcel\core\test\fixtures\common-targets133371017435515703 1
-68C:\Users\Super_DROZD\Desktop\projects\land space\dist\3.775fe478.png133371025251296417 0
+68C:\Users\Super_DROZD\Desktop\projects\land space\dist\3.775fe478.png133371027342295130 0
 110C:\Users\Super_DROZD\Desktop\projects\land space\node_modules\@parcel\core\test\fixtures\common-targets-ignore133371017435515703 1
 113C:\Users\Super_DROZD\Desktop\projects\land space\node_modules\@parcel\core\test\fixtures\config-extends-not-found133371017433755708 1
 112C:\Users\Super_DROZD\Desktop\projects\land space\node_modules\@parcel\core\test\fixtures\config-plugin-not-found133371017433685713 1
@@ -6417,20 +6417,20 @@
 75C:\Users\Super_DROZD\Desktop\projects\land space\node_modules\.bin\svgo.cmd133371017460775723 0
 93C:\Users\Super_DROZD\Desktop\projects\land space\node_modules\.bin\update-browserslist-db.cmd133371017460785717 0
 93C:\Users\Super_DROZD\Desktop\projects\land space\node_modules\.bin\update-browserslist-db.ps1133371017460785717 0
-68C:\Users\Super_DROZD\Desktop\projects\land space\dist\2.443fd50b.png133371025250086427 0
-68C:\Users\Super_DROZD\Desktop\projects\land space\dist\3.6ea4ab94.svg133371025251706418 0
-70C:\Users\Super_DROZD\Desktop\projects\land space\dist\Aim.0c916bdc.svg133371025250616439 0
-78C:\Users\Super_DROZD\Desktop\projects\land space\dist\background1.2e63c1ba.jpg133371025251326424 0
-72C:\Users\Super_DROZD\Desktop\projects\land space\dist\Clock.6b83e463.svg133371025251706418 0
-73C:\Users\Super_DROZD\Desktop\projects\land space\dist\Group3.bdfec0e4.svg133371025251706418 0
-71C:\Users\Super_DROZD\Desktop\projects\land space\dist\index.20802f4a.js133371025251306413 0
-75C:\Users\Super_DROZD\Desktop\projects\land space\dist\index.20802f4a.js.map133371025251336436 0
-64C:\Users\Super_DROZD\Desktop\projects\land space\dist\index.html133371025250636428 0
-75C:\Users\Super_DROZD\Desktop\projects\land space\dist\LinledIn.bc1829f8.svg133371025251706418 0
-71C:\Users\Super_DROZD\Desktop\projects\land space\dist\Logo.232a6f52.svg133371025251706418 0
-70C:\Users\Super_DROZD\Desktop\projects\land space\dist\Map.437f7840.svg133371025250636428 0
-72C:\Users\Super_DROZD\Desktop\projects\land space\dist\Phone.c9be5f22.svg133371025250616439 0
-71C:\Users\Super_DROZD\Desktop\projects\land space\dist\Team.57c174f3.svg133371025251706418 0
+68C:\Users\Super_DROZD\Desktop\projects\land space\dist\2.443fd50b.png133371027341705128 0
+68C:\Users\Super_DROZD\Desktop\projects\land space\dist\3.6ea4ab94.svg133371027340925109 0
+70C:\Users\Super_DROZD\Desktop\projects\land space\dist\Aim.0c916bdc.svg133371027341065114 0
+78C:\Users\Super_DROZD\Desktop\projects\land space\dist\background1.2e63c1ba.jpg133371027342695130 0
+72C:\Users\Super_DROZD\Desktop\projects\land space\dist\Clock.6b83e463.svg133371027340925109 0
+73C:\Users\Super_DROZD\Desktop\projects\land space\dist\Group3.bdfec0e4.svg133371027340925109 0
+71C:\Users\Super_DROZD\Desktop\projects\land space\dist\index.20802f4a.js133371027342285133 0
+75C:\Users\Super_DROZD\Desktop\projects\land space\dist\index.20802f4a.js.map133371027342685148 0
+64C:\Users\Super_DROZD\Desktop\projects\land space\dist\index.html133371027341085116 0
+75C:\Users\Super_DROZD\Desktop\projects\land space\dist\LinledIn.bc1829f8.svg133371027340925109 0
+71C:\Users\Super_DROZD\Desktop\projects\land space\dist\Logo.232a6f52.svg133371027340935109 0
+70C:\Users\Super_DROZD\Desktop\projects\land space\dist\Map.437f7840.svg133371027341085116 0
+72C:\Users\Super_DROZD\Desktop\projects\land space\dist\Phone.c9be5f22.svg133371027341075120 0
+71C:\Users\Super_DROZD\Desktop\projects\land space\dist\Team.57c174f3.svg133371027340915110 0
 68C:\Users\Super_DROZD\Desktop\projects\land space\build\index.css.map133371023976253519 0
 70C:\Users\Super_DROZD\Desktop\projects\land space\Assets\ArrowRight.svg133364854405872284 0
 73C:\Users\Super_DROZD\Desktop\projects\land space\Assets\ArrowTopRight.svg133369204542162160 0

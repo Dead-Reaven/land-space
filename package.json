@@ -1,12 +1,16 @@
 {
+	"homepage": "https://dead-reaven.github.io/land-space/",
 	"dependencies": {
+		"gh-pages": "^6.0.0",
 		"scss": "^0.2.4",
 		"swiper": "^10.1.0"
 	},
 	"scripts": {
 		"watch": "sass --watch src/scss/main.scss build/index.css",
 		"start": "parcel index.html",
-		"build": "parsel build"
+		"build": "parcel build index.html",
+		"deploy": "gh-pages -d dist",
+		"predeploy": "npm run build"
 	},
 	"devDependencies": {
 		"parcel": "^2.9.3"
